@@ -1,4 +1,4 @@
-# Scanning an Email
+# Submit an Email
 
 To submit an email for analysis, make the following request:
 
@@ -18,3 +18,5 @@ This will return the following JSON data with details about the email you just c
     "id": abc123...
 }
 ```
+
+Now, you can [get details about the email](get-email-details.html) you just created.

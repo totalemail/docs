@@ -1,0 +1,3 @@
+# Finding an Email's ID
+
+The ID is 64 hexadecimal characters long (it looks something like: `7b7c81da5ecfe6d0b9914b68a6ed92d0340712c819aa6b7dae9dd437cb676960`). If you just [submitted an email](submit-email.html), the email ID is provided in the `id` key of the JSON response from the API. If you're looking at an email in the GUI (e.g. [this email](https://totalemail.io/email/7b7c81da5ecfe6d0b9914b68a6ed92d0340712c819aa6b7dae9dd437cb676960)), the ID of the email is included in the URL (in the url `https://totalemail.io/email/7b7c81da5ecfe6d0b9914b68a6ed92d0340712c819aa6b7dae9dd437cb676960`, the ID is `7b7c81da5ecfe6d0b9914b68a6ed92d0340712c819aa6b7dae9dd437cb676960`).
