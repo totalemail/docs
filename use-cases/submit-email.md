@@ -40,4 +40,4 @@ If this were POSTed to the API, the phrase `foo bar` would be removed from the e
 
 ### Disabling Redaction
 
-If you would not like the recipient email address and name to be redacted, you can include the query parameter `redact=false` in the url of the request.
+If you would not like the recipient email address and name to be redacted, you can include the query parameter `redact=false` in the url of the request (e.g. `https://totalemail.io/api/v1/emails/?redact=false`).
